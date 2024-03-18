@@ -93,8 +93,8 @@ Path found: ['A', 'F', 'G', 'I', 'J']
 <hr>
 <h2>Sample Graph II</h2>
 <hr>
-![AI-2](https://github.com/23002776/19AI405ExpNo4/assets/145742657/e4d0808b-75d8-4c8b-8bbb-fc0f3cd31b41)
 
+![AI-2](https://github.com/23002776/19AI405ExpNo4/assets/145742657/93dd3669-570f-4993-b158-6b27246adaca)
 
 <hr>
 <h2>Sample Input</h2>
