@@ -1,6 +1,6 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: ABINAYA A</h3>
+<h3>Register Number:212223040003</h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
@@ -54,7 +54,7 @@
 <h2>Sample Graph I</h2>
 <hr>
 
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/b1377c3f-011a-4c0f-a843-516842ae056a)
+![AI-1](https://github.com/23002776/19AI405ExpNo4/assets/145742657/0dce322f-d674-4187-bd91-338c376b071a)
 
 <hr>
 <h2>Sample Input</h2>
@@ -93,8 +93,7 @@ Path found: ['A', 'F', 'G', 'I', 'J']
 <hr>
 <h2>Sample Graph II</h2>
 <hr>
-
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/acbb09cb-ed39-48e5-a59b-2f8d61b978a3)
+![AI-2](https://github.com/23002776/19AI405ExpNo4/assets/145742657/e65489a9-6104-4cef-88dc-d565e293610e)
 
 
 <hr>
