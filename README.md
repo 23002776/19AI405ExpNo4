@@ -54,7 +54,7 @@
 <h2>Sample Graph I</h2>
 <hr>
 
-![AI-1](https://github.com/23002776/19AI405ExpNo4/assets/145742657/0dce322f-d674-4187-bd91-338c376b071a)
+![AI-1](https://github.com/23002776/19AI405ExpNo4/assets/145742657/c31c384f-0fd1-4356-876a-8b6590b6aa8d)
 
 <hr>
 <h2>Sample Input</h2>
@@ -93,7 +93,7 @@ Path found: ['A', 'F', 'G', 'I', 'J']
 <hr>
 <h2>Sample Graph II</h2>
 <hr>
-![AI-2](https://github.com/23002776/19AI405ExpNo4/assets/145742657/e65489a9-6104-4cef-88dc-d565e293610e)
+![AI-2](https://github.com/23002776/19AI405ExpNo4/assets/145742657/e4d0808b-75d8-4c8b-8bbb-fc0f3cd31b41)
 
 
 <hr>
